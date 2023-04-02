@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  max-width: 5rem;
+  margin: 0 auto;
+}
